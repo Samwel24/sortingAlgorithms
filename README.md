@@ -15,5 +15,8 @@
 > performs worse than the similar insertion sort. Selection sort is noted for its simplicity, and it has performance advantages over more complicated algorithms in 
 > certain situations, particularly where auxiliary memory is limited. [Readmore](https://cli.ng/51pBbu)
 
+#### Bubble Sort
+> **Bubble sort**, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list to be sorted, compares each pair of adjacent items and swaps them if they are in the wrong order. [Readmore](https://cli.ng/5cQPDi)
+
 Thanks, please follow me and show me how to be a better programmer, I really appreciate that
 :rocket:
